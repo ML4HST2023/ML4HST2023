@@ -1,0 +1,1 @@
+python main.py --lr=0.01 --batch_size=128 --mu=0.0001 --n_epochs=10 --epoch_decay 20 25 --k 1 3 5 10 --model=resnet18 --pretrained --seed=4 --image_size=256 --crop_size=224 --root=../plantnet_300K_images_Short/images --save_name_xp=xp1
