@@ -1,0 +1,1 @@
+GestureRecognition.py is a library and should be kept on /home/turbopi/TurboPi directory
